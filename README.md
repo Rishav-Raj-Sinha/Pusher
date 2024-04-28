@@ -2,6 +2,8 @@
 
 This GUI tool is built with Python and Tkinter, allowing users to schedule a Git push operation at a desired time on the day. It utilizes the `python-crontab` library for scheduling cron jobs.
 
+![Image](ss.png)
+
 ## Features
 
 - User-friendly interface built with Tkinter.
