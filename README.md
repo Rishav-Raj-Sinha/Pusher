@@ -6,7 +6,7 @@ This GUI tool is built with Python and Tkinter, allowing users to schedule a Git
 
 - User-friendly interface built with Tkinter.
 - Schedule Git push operations for a specific time on the current day.
-- Easy-to-use scheduling interface with options for hour and minute selection.
+- Easy-to-use scheduling interface.
 
 ## Tech Stack
 
